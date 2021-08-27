@@ -1,0 +1,17 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.menu{
+    
+}
+ul.navbar-nav.menu {
+    color: #848484;
+    font-family: 400;
+    
+}
+.slider{
+    background-image: url(images/hot-gadgets/bg-1.png);
+    background-position:center;
+    background-repeat: no-repeat;
+ 
+}
