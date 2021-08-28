@@ -1,8 +1,8 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
-.menu{
-    
+.container{
+    margin-bottom: 100px;
 }
 ul.navbar-nav.menu {
     color: #848484;
@@ -15,3 +15,38 @@ ul.navbar-nav.menu {
     background-repeat: no-repeat;
  
 }
+.box{
+    box-shadow: 5px 5px 10px lightgrey;
+    border: none;
+    border-radius: 10px;
+    
+}
+h5{
+    font-weight:600;
+}
+.see{
+    color:orange;
+}
+
+.cat1 h2{
+  
+  border-bottom: 5px solid orange;
+ width: 100px;
+ padding-bottom: 5px;
+ margin-left: 500px;
+  
+ 
+ 
+}
+.cat3{
+padding: 30px 30px;
+margin-top: 20px;
+    
+}
+.pale img{
+    width: 100%;
+
+}
+
+
+
